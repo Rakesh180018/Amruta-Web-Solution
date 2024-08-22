@@ -1,1 +1,2 @@
-# Amruta-Web-Solution
+# Tripod
+Tripod - Creative Agency 
